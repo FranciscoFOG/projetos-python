@@ -1,4 +1,4 @@
-# jogo Pedra Papel e Tesoura
+# jogo Pedra Papel e Tesoura em python
 
 from tkinter import *
 from tkinter import ttk
